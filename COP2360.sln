@@ -93,35 +93,49 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Programming Exercise 6-7", 
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Programming Exercise 6-8", "Programming Exercise 6-8\Programming Exercise 6-8.csproj", "{02C679B5-168E-4D33-8F34-BDA2F3C12E56}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Programming Exercise 6-9", "Programming Exercise 6-9\Programming Exercise 6-9.csproj", "{F8326697-7832-422C-8565-469C6981A052}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Programming Exercise 6-9", "Programming Exercise 6-9\Programming Exercise 6-9.csproj", "{F8326697-7832-422C-8565-469C6981A052}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Debugging Exercise 6-1", "Debugging Exercise 6-1\Debugging Exercise 6-1.csproj", "{0FD4FF6B-4ADD-4C8A-9842-8E939BCDB05F}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Debugging Exercise 6-1", "Debugging Exercise 6-1\Debugging Exercise 6-1.csproj", "{0FD4FF6B-4ADD-4C8A-9842-8E939BCDB05F}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Debugging Exercise 6-2", "Debugging Exercise 6-2\Debugging Exercise 6-2.csproj", "{E09737F1-B608-42D0-BBCA-A731CD144BED}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Debugging Exercise 6-2", "Debugging Exercise 6-2\Debugging Exercise 6-2.csproj", "{E09737F1-B608-42D0-BBCA-A731CD144BED}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Debugging Exercise 6-3", "Debugging Exercise 6-3\Debugging Exercise 6-3.csproj", "{456B5D61-F45E-4A28-9BF4-6D6A21055F60}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Debugging Exercise 6-3", "Debugging Exercise 6-3\Debugging Exercise 6-3.csproj", "{456B5D61-F45E-4A28-9BF4-6D6A21055F60}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Debugging Exercise 6-4", "Debugging Exercise 6-4\Debugging Exercise 6-4.csproj", "{C0818540-0D13-49F1-AD66-A00A6909BE63}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Debugging Exercise 6-4", "Debugging Exercise 6-4\Debugging Exercise 6-4.csproj", "{C0818540-0D13-49F1-AD66-A00A6909BE63}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Case Problem 6-1", "Case Problem 6-1\Case Problem 6-1.csproj", "{ADE3B2C3-6199-48E8-A194-4AC22CF3FA65}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Case Problem 6-1", "Case Problem 6-1\Case Problem 6-1.csproj", "{ADE3B2C3-6199-48E8-A194-4AC22CF3FA65}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Case Problem 6-2", "Case Problem 6-2\Case Problem 6-2.csproj", "{28AD514A-5E41-4D0E-9D17-436E8A569214}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Case Problem 6-2", "Case Problem 6-2\Case Problem 6-2.csproj", "{28AD514A-5E41-4D0E-9D17-436E8A569214}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Programming Exercise 7-1", "Programming Exercise 7-1\Programming Exercise 7-1.csproj", "{0CA3B5E2-A491-4CBB-A3E0-251E6CE743B9}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Programming Exercise 7-1", "Programming Exercise 7-1\Programming Exercise 7-1.csproj", "{0CA3B5E2-A491-4CBB-A3E0-251E6CE743B9}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Programming Exercise 7-2", "Programming Exercise 7-2\Programming Exercise 7-2.csproj", "{D0EB3693-6CA0-4236-9234-E75797B855B6}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Programming Exercise 7-2", "Programming Exercise 7-2\Programming Exercise 7-2.csproj", "{D0EB3693-6CA0-4236-9234-E75797B855B6}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Programming Exercise 7-3", "Programming Exercise 7-3\Programming Exercise 7-3.csproj", "{56527B9C-037F-422E-8F48-BFB25CDF584A}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Programming Exercise 7-3", "Programming Exercise 7-3\Programming Exercise 7-3.csproj", "{56527B9C-037F-422E-8F48-BFB25CDF584A}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Programming Exercise 7-5", "Programming Exercise 7-5\Programming Exercise 7-5.csproj", "{454A4F96-79B6-4C86-9D63-F5D1D8A2D097}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Programming Exercise 7-5", "Programming Exercise 7-5\Programming Exercise 7-5.csproj", "{454A4F96-79B6-4C86-9D63-F5D1D8A2D097}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Programming Exercise 7-6", "Programming Exercise 7-6\Programming Exercise 7-6.csproj", "{1658089B-94F2-42C8-8C9A-65F66DF86381}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Programming Exercise 7-6", "Programming Exercise 7-6\Programming Exercise 7-6.csproj", "{1658089B-94F2-42C8-8C9A-65F66DF86381}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Programming Exercise 7-7", "Programming Exercise 7-7\Programming Exercise 7-7.csproj", "{78AB11C9-85DD-4E8E-86F3-E7ECA31BE6DE}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Programming Exercise 7-7", "Programming Exercise 7-7\Programming Exercise 7-7.csproj", "{78AB11C9-85DD-4E8E-86F3-E7ECA31BE6DE}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Programming Exercise 7-8", "Programming Exercise 7-8\Programming Exercise 7-8.csproj", "{F62FB5A8-6620-4FEE-A144-9782C9D6440D}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Programming Exercise 7-8", "Programming Exercise 7-8\Programming Exercise 7-8.csproj", "{F62FB5A8-6620-4FEE-A144-9782C9D6440D}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Programming Exercise 7-9", "Programming Exercise 7-9\Programming Exercise 7-9.csproj", "{DD271A25-32BF-42AA-B5D3-BB7F06F24FD0}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Programming Exercise 7-9", "Programming Exercise 7-9\Programming Exercise 7-9.csproj", "{DD271A25-32BF-42AA-B5D3-BB7F06F24FD0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Debugging Exercise 7-1", "Debugging Exercise 7-1\Debugging Exercise 7-1.csproj", "{10C8984A-A343-49B3-AC15-617B6BD9BE03}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Debugging Exercise 7-2", "Debugging Exercise 7-2\Debugging Exercise 7-2.csproj", "{15E8651F-63CF-4C90-BA21-87C4D9903254}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Debugging Exercise 7-3", "Debugging Exercise 7-3\Debugging Exercise 7-3.csproj", "{91D2D163-8497-4E21-B783-C694F837C8AC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Debugging Exercise 7-4", "Debugging Exercise 7-4\Debugging Exercise 7-4.csproj", "{85521C67-55F5-46F8-B22A-EDFF417D3553}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Case Problem 7-1", "Case Problem 7-1\Case Problem 7-1.csproj", "{E261E543-6823-4A84-BD8A-D17995E0F20C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NUnitTestProject7", "NUnitTestProject1\NUnitTestProject7.csproj", "{36C3D84A-06F6-4162-A79E-715F1868B930}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Case Problem 7-2", "Case Problem 7-2\Case Problem 7-2.csproj", "{0510F95C-DD3F-4251-8245-30990D50D429}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -369,6 +383,34 @@ Global
 		{DD271A25-32BF-42AA-B5D3-BB7F06F24FD0}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{DD271A25-32BF-42AA-B5D3-BB7F06F24FD0}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{DD271A25-32BF-42AA-B5D3-BB7F06F24FD0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{10C8984A-A343-49B3-AC15-617B6BD9BE03}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{10C8984A-A343-49B3-AC15-617B6BD9BE03}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{10C8984A-A343-49B3-AC15-617B6BD9BE03}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{10C8984A-A343-49B3-AC15-617B6BD9BE03}.Release|Any CPU.Build.0 = Release|Any CPU
+		{15E8651F-63CF-4C90-BA21-87C4D9903254}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{15E8651F-63CF-4C90-BA21-87C4D9903254}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{15E8651F-63CF-4C90-BA21-87C4D9903254}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{15E8651F-63CF-4C90-BA21-87C4D9903254}.Release|Any CPU.Build.0 = Release|Any CPU
+		{91D2D163-8497-4E21-B783-C694F837C8AC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{91D2D163-8497-4E21-B783-C694F837C8AC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{91D2D163-8497-4E21-B783-C694F837C8AC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{91D2D163-8497-4E21-B783-C694F837C8AC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{85521C67-55F5-46F8-B22A-EDFF417D3553}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{85521C67-55F5-46F8-B22A-EDFF417D3553}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{85521C67-55F5-46F8-B22A-EDFF417D3553}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{85521C67-55F5-46F8-B22A-EDFF417D3553}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E261E543-6823-4A84-BD8A-D17995E0F20C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E261E543-6823-4A84-BD8A-D17995E0F20C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E261E543-6823-4A84-BD8A-D17995E0F20C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E261E543-6823-4A84-BD8A-D17995E0F20C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{36C3D84A-06F6-4162-A79E-715F1868B930}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{36C3D84A-06F6-4162-A79E-715F1868B930}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{36C3D84A-06F6-4162-A79E-715F1868B930}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{36C3D84A-06F6-4162-A79E-715F1868B930}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0510F95C-DD3F-4251-8245-30990D50D429}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0510F95C-DD3F-4251-8245-30990D50D429}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0510F95C-DD3F-4251-8245-30990D50D429}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0510F95C-DD3F-4251-8245-30990D50D429}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
